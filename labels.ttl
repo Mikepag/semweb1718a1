@@ -1,0 +1,17 @@
+PREFIX res: <http://dilab77.ionio.gr/sw/p14pagk/resources/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+
+<http://dilab77.ionio.gr/sw/p14pagk/resources/Α.Δ.Κ.Ε.Γ.> rdfs:label "Α.Δ.Κ.Ε.Γ." .
+<http://dilab77.ionio.gr/sw/p14pagk/resources/Δ.Α.Π.Σ.> rdfs:label "Δ.Α.Π.Σ." .
+<http://dilab77.ionio.gr/sw/p14pagk/resources/Ηλεκτρονική%20Διακυβέρνηση> rdfs:label "Ηλεκτρονική%20Διακυβέρνηση" .
+<http://dilab77.ionio.gr/sw/p14pagk/resources/Παράλληλος%20Προγραμματισμός> rdfs:label "Παράλληλος%20Προγραμματισμός" .
+
+<http://dilab77.ionio.gr/sw/p14pagk/resources/Κοινωνικός%20και%20Σημασιολογικός%20Ιστός> rdfs:label "Κοινωνικός και Σημασιολογικός Ιστός" .
+<http://dilab77.ionio.gr/sw/p14pagk/resources/Σ.Κ.Δ.Π.Σ> rdfs:label "Σ.Κ.Δ.Π.Σ" .
+<http://dilab77.ionio.gr/sw/p14pagk/resources/Α.Δ.Κ.Ε.Γ> rdfs:label "Α.Δ.Κ.Ε.Γ." .
+
+
+<http://dilab77.ionio.gr/sw/p14pagk/resources/Α.%20Πατέλη> rdfs:label "Α. Πατέλη" .
+<http://dilab77.ionio.gr/sw/p14pagk/resources/Π.%20Κουροθανάσης> rdfs:label "Π. Κουροθανάσης" .
+<http://dilab77.ionio.gr/sw/p14pagk/resources/Θ.%20Έξαρχος> rdfs:label "Θ. Έξαρχος" .
+<http://dilab77.ionio.gr/sw/p14pagk/resources/Μ.%20Στεφανιδάκης> rdfs:label "Στεφανιδάκης" .
